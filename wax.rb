@@ -6,7 +6,7 @@ class Wax < Formula
   homepage "http://alecrasmussen.com"
   url "http://alecrasmussen.com/wax/wax-1.0.3.tar.gz"
   version "1.0.3"
-  sha256 "5acd1b9f528a7354adcc331e1a9a473a6216580e83653a5649a7222c8a13457c"
+  sha256 "d9d9284e0fae2f4f51bd0d2bae11c164eb2a108e8446554b8ad93fbdcdfbad81"
 
   def install
   	# TODO: install pydub dependency
