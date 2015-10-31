@@ -9,7 +9,6 @@ class Wax < Formula
   sha256 "0764c8f3b8a57488a795e67591788fdc3798f8a990718025276689b767db228d"
 
   def install
-  	# TODO: install pydub dependency
     bin.install "wax"
   end
 end
