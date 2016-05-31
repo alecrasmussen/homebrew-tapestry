@@ -1,6 +1,6 @@
 class Wax < Formula
   depends_on "ffmpeg"
-  depends_on "sox"
+  depends_on "sox" => ["with-lame", "with-libvorbis"]
   depends_on "python3"
   desc "Wax is a protocol for creating and sharing adaptive audio."
   homepage "http://alecrasmussen.com"
