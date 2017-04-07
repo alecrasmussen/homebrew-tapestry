@@ -6,7 +6,7 @@ class Wax < Formula
   homepage "http://alecrasmussen.com"
   url "http://alecrasmussen.com/wax/wax-1.0.8.tar.gz"
   version "1.0.8"
-  sha256 "c8a6a8eef2e1c8e3b19fb9c8edba87f795ab49680a218b8fff22dd7863b988f0"
+  sha256 "50d47e772e57b802ea7a7740838bd1bc569e42415e1c2f3ff32cbe5f71a1b905"
 
   def install
     bin.install "wax"
